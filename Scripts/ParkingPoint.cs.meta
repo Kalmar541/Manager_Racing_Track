@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: db4550dd90e07954185c635462aba05e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _containerCar: {instanceID: 0}
+  - _upgradeVFXprefab: {fileID: 5016820331022808037, guid: dcbe656adc6158f45a04a4c3bccc7d30,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
